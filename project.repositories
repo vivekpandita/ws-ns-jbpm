@@ -11,17 +11,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>C:\Users\VPandita/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/eagle-org/NS-Web</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>github</id>
-        <url>https://maven.pkg.github.com/eagle-org/NS-Web</url>
-        <source>SETTINGS</source>
+        <id>local</id>
+        <url>C:\Users\VPandita/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
   </repositories>
