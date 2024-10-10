@@ -21,7 +21,7 @@
     <configurations/>
     <required-roles/>
     <remoteable-classes>
-        <remoteable-class>com.abs.wsns_bpmn.Document</remoteable-class>
+        <remoteable-class>com.wavesight.harbor.model.Document</remoteable-class>
     </remoteable-classes>
     <limit-serialization-classes>true</limit-serialization-classes>
 </deployment-descriptor>
